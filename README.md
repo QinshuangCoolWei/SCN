@@ -14,3 +14,9 @@ Datasets:<br/>
 3node_simp_case.xlsx: the dataset for the 3-node, 2-edge, and 3-item case. <br/> 
 simp_case.xlsx: the dataset for the 7-node, 8-edge, and 6-item case. <br/> 
 food_data_2.xlsx: the dataset for the 15-node, 20-edge, and 9-item case. <br/> 
+
+Results:<br/> 
+results_3node: all mentioned results for the 3-node SCN. <br/> 
+results_simp: all mentioned results for the 7-node SCN. <br/> 
+results_food: all mentioned results for the 15-node SCN. <br/> 
+plots: all produced plots in the paper. <br/> 
